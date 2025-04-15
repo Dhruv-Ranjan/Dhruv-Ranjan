@@ -19,7 +19,10 @@
 - 💡 Fun Fact: I can code better while I'm snacking 😄
 
 ---
+### Follow Me On
+- Instagram: https://instagram.com/_druvvxx
 
+---
 ### 🛠️ Tech Stack
 ```bash
-💻 C# | Unity | C++ | Python | HTML/CSS | Arduino | ESP32 | Git
+💻 C# | Unity | C++ | Python | HTML/CSS | Arduino | ESP32 | Git | Kotlin | Java |
