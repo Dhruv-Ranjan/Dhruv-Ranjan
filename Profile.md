@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Ranjan</h1>
-<h3 align="center">A passionate developer and tech explorer</h3>
+<h3 align="center">A passionate developer and tech explorer</h3> 
 
 <p align="center">
   <a href="https://instagram.com/_druvvxx" target="_blank">
