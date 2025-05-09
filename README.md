@@ -16,7 +16,8 @@
 - 🔭 I’m currently working on: Various IoT projects alongside a vehicle safety system. I love programming, AI, ML, Electronics, Aeromodelling and Astrophysics  
 - 🌱 I’m learning: Unity Game Development, C#, Python, C++, Java, HTML, CSS, JavaScript, Kotlin, Kali Linux and Arch Linux  
 - 📫 Reach me at: ranjan.dhruv007@gmail.com  
-- 💡 Fun Fact: I can code better while I'm snacking 😄  
+- 💡 Fun Fact: I can code better while I'm sleepy 😴
+- 🧑🏻‍🎓 Education: I'm currenntly studying in the 10th grade at National Public School Agara, Bangalore
 
 ### 🏆 Awards and Recognition:
 - TechRadiance National Robotics and Coding Championship winner at IIT Delhi – 2025  
