@@ -17,7 +17,7 @@
 - 🌱 I’m learning: Unity Game Development, C#, Python, C++, Java, HTML, CSS, JavaScript, Kotlin, Kali Linux and Arch Linux  
 - 📫 Reach me at: ranjan.dhruv007@gmail.com  
 - 💡 Fun Fact: I can code better while I'm sleepy 😴.
-- 🧑🏻‍🎓 Education: I'm currenntly studying in the 11th grade at Delhi Public School Bangalore South
+- 🧑🏻‍🎓 Education: I'm currently studying in the 11th grade at Delhi Public School Bangalore South
 
 ### 🏆 Awards and Recognition:
 - TechRadiance National Robotics and Coding Championship winner at IIT Delhi – 2025
